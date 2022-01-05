@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Snake 1.0-SNAPSHOjava API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Snake 1.0-SNAPSHOjava API'
+snake
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/GameFrame.java'
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/GameFrame1.java'
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/GameFrame2.java'
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/GamePanel.java'
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/GamePanel1.java'
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/GamePanel2.java'
+'C:/Users/Nimra Javed/Documents/NetBeansProjects/Snake/src/main/java/snake/SnakeGame.java'
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\src\main\java = 1640953281430
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\allclasses-frame.html = 1641379787663
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\allclasses-noframe.html = 1641379787663
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\constant-values.html = 1641379787053
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\deprecated-list.html = 1641379787653
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\help-doc.html = 1641379787683
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\index-all.html = 1641379787623
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\index.html = 1641379787673
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\overview-tree.html = 1641379787593
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\package-list = 1641379786993
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\script.js = 1641379787693
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\serialized-form.html = 1641379787133
+C:\Users\Nimra Javed\Documents\NetBeansProjects\Snake\target\site\apidocs\stylesheet.css = 1641379787693
